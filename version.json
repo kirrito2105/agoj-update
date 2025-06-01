@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "url": "https://kirrito2105.github.io/agoj-update/update.zip",
+  "url": "https://github.com/kirrito2105/agoj-update/releases/download/v3.1.0/update.zip",
   "notes": "Cập nhật sửa lỗi không thể ghi đè file .exe đang chạy và cải thiện giao diện cập nhật."
 }
